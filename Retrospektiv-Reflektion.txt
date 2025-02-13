@@ -1,0 +1,34 @@
+Vad du tror skulle fungera bra i projektet?
+
+När jag ser tillbaka på detta projekt och reflekterar så tror jag att Trello kan vara väldigt hjälpsamt.
+jag känner mig inte riktigt bekväm med Trello ännu men har lärt mig att det är ett bra verktyg.
+Jag tror att det skulle vara bra att använda Trello i framtida projekt för att hålla koll på vad som behöver göras och vad som är klart.
+Trello känns även som ett bra sätt att arbeta tillsammans med andra i ett projekt.
+
+Om jag ska reflektera över vad som fungerat bra med Figma så är det att det är ett bra sätt att skapa prototyper.
+Jag har lärt mig att det är ett bra sätt att visa hur en hemsida eller app ska se ut och fungera.
+Super smidigt att kunna skapa en prototyp och sedan dela den med andra för att få feedback.
+Att skapa en Wireframe och ett flödesdiagram är också något som jag tycker har fungerat bra med Figma.
+
+
+
+
+
+
+Vad som skulle vara svårt?
+
+Jag tror att det svåraste skulle vara att implementera realtidsfunktioner som tex chatten,
+eftersom det kräver WebSockets eller andra lösningar som kan vara kluriga att sätta upp.
+Även att hantera filuppladdning och delning kan också bli komplicerat. speciellt med olika filformat och säkerthetaspekter.
+
+
+
+
+
+
+
+Hur du skulle förbättra processen nästa gång?
+
+jag skulle förbättra processen genom att lägga mer tid på att skapa wireframes och flödesdiagram tididht.
+det skulle hjälpa mig att identifiera problem tidigt.
+om detta skulle vara ett riktigt projekt som skulle kodas skulle jag överväga att använda färdiga UI-bibliotek för att spara tid och få en snygg design.
